@@ -1,4 +1,4 @@
-Advanced Phishing Detection System
+"Advanced Phishing Detection System"
 
 Description
 This project is a cybersecurity tool that detects phishing URLs using a hybrid approach combining heuristic analysis, blacklist checking, and threat intelligence API integration.
