@@ -1,0 +1,3 @@
+phishing.com
+fakebank-login.com
+malicious-site.net
