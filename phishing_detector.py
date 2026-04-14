@@ -4,7 +4,7 @@ from tkinter import ttk
 import requests
 from datetime import datetime
 
-# 🔐 Replace with your NEW API key (never upload publicly)
+# Replace with your NEW API key (never upload publicly)
 API_KEY = "API KEY"
 
 # Load blacklist
